@@ -1,0 +1,8 @@
+mlq_scheduler
+mlq_scheduler.exe
+*.o
+*.obj
+.vscode/
+.agents/
+outputs/*
+!outputs/.gitkeep
